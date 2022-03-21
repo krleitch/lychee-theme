@@ -6,8 +6,9 @@
 		"editor.background": "#1C1B1B",
 		"editor.foreground": "#eeffff",
 		"sideBar.background": "#242323",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBar.foreground": "#DDDDDD",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"activityBarBadge.background": "#007acc"
 	},
 	"tokenColors": [
 		// TODO: bracket pair colorizer
