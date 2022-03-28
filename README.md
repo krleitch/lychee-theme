@@ -5,7 +5,7 @@
 
 ### Demo
 
-<img src="./demo.png" alt="demo" width="250"/>
+<img src="./demo.png" alt="demo" width="500"/>
 
 ### Resources
 
