@@ -12,7 +12,10 @@
 		"activityBar.background": "#130e12",
 		"activityBarBadge.background": "#007acc",
 		"editorGroupHeader.tabsBackground": "#130e12",
-    "tab.inactiveBackground": "#20151d"
+    "tab.inactiveBackground": "#20151d",
+    "input.background": "#241620",
+    "editorWidget.background": "#130e12"
+
 	},
 	"tokenColors": [
 		{
@@ -175,13 +178,13 @@
     {
       "scope": "keyword.other.special-method",
       "settings": {
-        "foreground": "#45A9F9"
+        "foreground": "#688894"
       }
     },
     {
       "scope": "keyword.control.at-rule",
       "settings": {
-        "foreground": "#B084EB"
+        "foreground": "#69746e"
       }
     },
     {
@@ -199,7 +202,7 @@
     {
       "scope": "entity.name.type",
       "settings": {
-        "foreground": "#c5e1a5",
+        "foreground": "#688894",
         "fontStyle": "italic"
       }
     },
