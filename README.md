@@ -2,6 +2,7 @@
 
 * VSCode theme created by krleitch
 * Color semantics inspired by monokai (https://github.com/microsoft/vscode/blob/main/extensions/theme-monokai/themes/monokai-color-theme.json)
+* Editor colors inspired by celestial (https://github.com/apvarun/celestial-theme)
 
 ### Demo
 
